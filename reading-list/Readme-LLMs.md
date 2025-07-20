@@ -51,7 +51,10 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 > > 2. [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), June 2024 (revised Feb 2025). _A comprehensive survey of prompting approaches across LLM types_.
 > > 3. [Promptify](https://github.com/promptslab/Promptify) - a Python library to automate creating prompts and getting structured results
 > > 4. [AISuite](https://github.com/andrewyng/aisuite) - a Python library providing interface to multiple LLMs for prompting and getting responses
-   
+
+> e. Programmatically using LLMs
+> > 1. [Ollama library](https://github.com/ollama/ollama). Using it for [Tool calling](https://www.ibm.com/think/tutorials/local-tool-calling-ollama-granite) - illustrated with Granite.
+>  > 2. One could also use HuggingFace tool - [see course](https://huggingface.co/learn/llm-course/chapter1/1) and LangChain - [see tutorial](https://python.langchain.com/docs/tutorials/).
 ---
 
 5. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
@@ -96,3 +99,4 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 7. [DeepSeek R1](https://www.deepseek.com/), from DeepSeek - open weight (source) LLM. 
  > a. A point-of-view [(POV)](https://drive.google.com/file/d/1ErR1xT7ftvmHiUyYrdUbjyd4qCK_FxKX/view?usp=sharing) from [AI for Society](https://ai4society.github.io/) (Feb 2, 2025). 
 
+---
