@@ -44,7 +44,6 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 
 > c. LLMs and reasoning
 > > 1. [Can Large Language Models Reason and Plan?](https://arxiv.org/html/2403.04121v1), S. Kambhampati 2024. _Explains LLMs properties with respect to reasoning and planning_.
-> > 2. 
 
 > d. Prompting resources
 > > 1. [A guide with description about prompting techniques](https://www.promptingguide.ai/introduction)
@@ -53,7 +52,7 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 > > 4. [AISuite](https://github.com/andrewyng/aisuite) - a Python library providing interface to multiple LLMs for prompting and getting responses
 
 > e. Programmatically using LLMs
-> > 1. [Ollama library](https://github.com/ollama/ollama). Using it for [Tool calling](https://www.ibm.com/think/tutorials/local-tool-calling-ollama-granite) - illustrated with Granite.
+> > 1. [Ollama library](https://github.com/ollama/ollama). Using it for [tool calling](https://www.ibm.com/think/tutorials/local-tool-calling-ollama-granite) - illustrated with Granite.
 >  > 2. One could also use HuggingFace tool - [see course](https://huggingface.co/learn/llm-course/chapter1/1) and LangChain - [see tutorial](https://python.langchain.com/docs/tutorials/).
 ---
 
