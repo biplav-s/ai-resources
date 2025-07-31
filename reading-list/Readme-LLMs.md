@@ -54,6 +54,12 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 > e. Programmatically using LLMs
 > > 1. [Ollama library](https://github.com/ollama/ollama). Using it for [tool calling](https://www.ibm.com/think/tutorials/local-tool-calling-ollama-granite) - illustrated with Granite.
 >  > 2. One could also use HuggingFace tool - [see course](https://huggingface.co/learn/llm-course/chapter1/1) and LangChain - [see tutorial](https://python.langchain.com/docs/tutorials/).
+
+> f. Learning about finetuning and RAG-ification of LLMs
+> > 1. [How to Fine-Tune Llama 3.1 (8B Instruct)](https://medium.com/@rschaeffer23/how-to-fine-tune-llama-3-1-8b-instruct-bf0a84af7795), [video - finetuning Llama 3.1](https://youtu.be/rpAtVIZB72U?si=CGt_21RQcRSAzwbZ).
+> > 2. [RAG using Llama 2, Langchain and ChromaDB](https://www.kaggle.com/code/gpreda/rag-using-llama-2-langchain-and-chromadb).
+
+
 ---
 
 5. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
