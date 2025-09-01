@@ -59,6 +59,8 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 > > 1. [How to Fine-Tune Llama 3.1 (8B Instruct)](https://medium.com/@rschaeffer23/how-to-fine-tune-llama-3-1-8b-instruct-bf0a84af7795), [video - finetuning Llama 3.1](https://youtu.be/rpAtVIZB72U?si=CGt_21RQcRSAzwbZ).
 > > 2. [RAG using Llama 2, Langchain and ChromaDB](https://www.kaggle.com/code/gpreda/rag-using-llama-2-langchain-and-chromadb).
 
+> g. Environmental cost of using LLMs
+> > 1. Water cost - [AI has a hidden water cost − here’s how to calculate yours](https://theconversation.com/ai-has-a-hidden-water-cost-heres-how-to-calculate-yours-263252), September 2025. The estimate varies rom 0.26 milliliters to 39 milliliters per prompt depending on the effects of efficiency of data center, AI model and power-generation infrastructure.
 
 ---
 
