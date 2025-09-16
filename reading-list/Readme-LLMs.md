@@ -49,8 +49,9 @@ readings in [AI and NLP](./Readme-AI-NLP.md) and [AI Trust](./Readme-Trust.md) <
 >  > 2. One could also use HuggingFace tool - [see course](https://huggingface.co/learn/llm-course/chapter1/1) and LangChain - [see tutorial](https://python.langchain.com/docs/tutorials/).
 
 > d. Learning about **finetuning and RAG-ification** of LLMs
-> > 1. [How to Fine-Tune Llama 3.1 (8B Instruct)](https://medium.com/@rschaeffer23/how-to-fine-tune-llama-3-1-8b-instruct-bf0a84af7795), [video - finetuning Llama 3.1](https://youtu.be/rpAtVIZB72U?si=CGt_21RQcRSAzwbZ).
-> > 2. [RAG using Llama 2, Langchain and ChromaDB](https://www.kaggle.com/code/gpreda/rag-using-llama-2-langchain-and-chromadb).
+> > 1. On deciding what to do - in-context learning, RAG, finetuning: [Meta's blog](https://ai.meta.com/blog/adapting-large-language-models-llms/), Aug 2024.
+> > 2. [How to Fine-Tune Llama 3.1 (8B Instruct)](https://medium.com/@rschaeffer23/how-to-fine-tune-llama-3-1-8b-instruct-bf0a84af7795), [video - finetuning Llama 3.1](https://youtu.be/rpAtVIZB72U?si=CGt_21RQcRSAzwbZ).
+> > 3. [RAG using Llama 2, Langchain and ChromaDB](https://www.kaggle.com/code/gpreda/rag-using-llama-2-langchain-and-chromadb).
 
 > e. LLMs and **reasoning**
 > > 1. [Can Large Language Models Reason and Plan?](https://arxiv.org/html/2403.04121v1), S. Kambhampati 2024. _Explains LLMs properties with respect to reasoning and planning_.
