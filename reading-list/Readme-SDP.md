@@ -30,7 +30,7 @@ readings in [Large Language Models (LLMs)](./Readme-LLMs.md), [AI and NLP](./Rea
 ---
 
 ## Reinforcement Learning
-1.Introduction and tutorial
+1. Introduction and tutorial
 > a. Introduction to [Sequential Decision Problems](https://www.geeksforgeeks.org/sequential-decision-problems-in-ai/)
 > 
 > b. Introduction to [Multi-Armed Bandit Problems](https://www.tensorflow.org/agents/tutorials/intro_bandit), by Google.
@@ -38,3 +38,12 @@ readings in [Large Language Models (LLMs)](./Readme-LLMs.md), [AI and NLP](./Rea
 > c. Survey on [Applications of Multi-Armed and Contextual Bandits](https://dl.acm.org/doi/10.1109/cec48606.2020.9185782), Djallel Bouneffouf, Irina Rish, and Charu Aggarwal, 2020.
 > 
 > d. A well respected book on [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), by Barto and Sutton
+2. Model-free v/s model-based RL methods
+In model-free  - the agent learns action to take, but nothing more. In 
+
+> a. Video - [Youtube explanation](https://www.youtube.com/watch?v=mFyqU2dWQE0&t=114s)
+> b. OpenAI - [RL introduction](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html) 
+> c. Python tennis [Pytennis environment example](https://neptune.ai/blog/model-based-and-model-free-reinforcement-learning-pytennis-case-study) 
+
+3. Code, tools and resources
+> a.  Reinforcement learning algorithms in PyTorch - [Stable baselines](https://stable-baselines3.readthedocs.io/en/master/).
