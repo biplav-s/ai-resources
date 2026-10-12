@@ -4,6 +4,7 @@ readings in  [LLMs](./Readme-LLMs.md), [AI and NLP](./Readme-AI-NLP.md) and [AI 
 ---
 
 1. Introductory concepts
+> 1. Mastering Agentic AI Systems - [a free, crowd-sourced, public-domain curriculum](https://gsa.github.io/MasteringAgenticAISystems_supplementals/), with 96 chapters. 
    
 2. Human and AI Considerations
 > 1. Article - Evolving nature of Human-Agent interaction - [So your new ‘co‑worker’ is an AI agent – here’s how to make the best of your human‑machine relationship ](https://theconversation.com/so-your-new-co-worker-is-an-ai-agent-heres-how-to-make-the-best-of-your-human-machine-relationship-276011), May 2026
